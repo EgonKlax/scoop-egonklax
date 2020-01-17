@@ -1,0 +1,2 @@
+# scoop-egonklax
+Scoop repository
