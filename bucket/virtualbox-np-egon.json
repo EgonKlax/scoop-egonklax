@@ -1,16 +1,16 @@
 {
-    "version": "6.1.22",
+    "version": "6.1.26",
     "description": "Powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.",
     "homepage": "https://www.virtualbox.org/",
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": { "url": [
-                        "https://download.virtualbox.org/virtualbox/6.1.22/VirtualBox-6.1.22-144080-Win.exe#/VBoxSetup.exe",
-                        "https://download.virtualbox.org/virtualbox/6.1.22/Oracle_VM_VirtualBox_Extension_Pack-6.1.22.vbox-extpack"
+                        "https://download.virtualbox.org/virtualbox/6.1.26/VirtualBox-6.1.26-145957-Win.exe#/VBoxSetup.exe",
+                        "https://download.virtualbox.org/virtualbox/6.1.26/Oracle_VM_VirtualBox_Extension_Pack-6.1.26.vbox-extpack"
                     ],
                     "hash": [
-                        "ed5796aeb5d143bb4bb59a70bd976411dee79d583deb7a95f621992dd3c6864f",
-                        "6d33d9cc1c5a8f8a2a70e5aaaa778a341322d2ba7eb34f7de420fb5f312b9e87"
+                        "eed44e66d898c17cae46a14dff1fc86ac5c321372a7fc46efcef454c1e454307",
+                        "aaa1a1f8615d5bd2e08b158ce6f415262fbb595e169e2d415c5b1844ac258eee"
                     ]
         }
     },
